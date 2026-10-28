@@ -12,6 +12,8 @@ inicio
 //nota4   
 //media  
 
+para cont de 1 ate 10 faca
+
 escreval ("Nome do aluno?:")
 leia (nomedoaluno)
 escreval ("Qual foi a sua nota1?")
@@ -38,5 +40,6 @@ fimse
 
 escreval (nomedoaluno)
 escreval ("Sua media foi ", media)
+fimpara
 
 fimalgoritmo
